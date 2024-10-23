@@ -2,6 +2,21 @@
 SCREAM_q8x V1.0  برنامج تم تطويره من قبل MR_talalq8x  
 
 
+
+![0099](https://github.com/user-attachments/assets/41016c85-a10d-4838-a0a3-213414a5a435)
+
+
+DOWNLOAD  :   [SCREAM_q8x V1.0.zip](https://github.com/user-attachments/files/17497061/SCREAM_q8x.V1.0.zip)
+
+
+
+
+
+
+
+
+
+
 دليل استخدام برنامج "إدارة العمليات - MR_talalq8x"
 مرحبًا بك في برنامج إدارة العمليات! يوفر هذا البرنامج مجموعة من الأدوات التي تساعدك في إدارة العمليات النشطة على جهاز الكمبيوتر وتحليلها.
 في هذا الدليل، سنشرح جميع الميزات الموجودة في البرنامج وكيفية استخدامها بشكل فعال.
@@ -130,6 +145,7 @@ The Process Manager - MR_talalq8x provides useful tools for managing processes, 
 If you have any questions or encounter any issues while using the program, please contact the developer.
 
 
+[SCREAM_q8x V1.0.zip](https://github.com/user-attachments/files/17497069/SCREAM_q8x.V1.0.zip)
 
 
 
