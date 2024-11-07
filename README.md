@@ -6,8 +6,9 @@ SCREAM_q8x V1.0  برنامج تم تطويره من قبل MR_talalq8x
 ![0099](https://github.com/user-attachments/assets/41016c85-a10d-4838-a0a3-213414a5a435)
 
 
-DOWNLOAD  :   [SCREAM_q8x V1.0.zip](https://github.com/user-attachments/files/17497061/SCREAM_q8x.V1.0.zip)
 
+
+[![Downloads](https://img.shields.io/github/downloads/user/repo/total.svg)]([رابط_التحميل](https://github.com/user-attachments/files/17497061/SCREAM_q8x.V1.0.zip))
 
 
 
