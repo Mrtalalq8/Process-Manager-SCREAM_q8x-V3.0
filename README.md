@@ -1,13 +1,40 @@
 # Process-Manager-SCREAM_q8x-V1.0
-SCREAM_q8x V1.0  برنامج تم تطويره من قبل MR_talalq8x  
+SCREAM_q8x V1.0  برنامج تم تطويره من قبل MR_talalq8x 
 
 
 
-![0099](https://github.com/user-attachments/assets/41016c85-a10d-4838-a0a3-213414a5a435)
+New Commands Added
+sfc /scannow: Added a button to scan and repair system files.
+chkdsk /f: Added a button to check and repair disk errors.
+Temporary Files Cleanup
+New paths added for cleanup:
+%temp%
+C:\Windows\Temp
+C:\Windows\Prefetch
+Internet temporary files (InternetCache) and cookies (Cookies).
+Files and folders are deleted programmatically using File.Delete and Directory.Delete.
+Language Support
+Translation dictionaries updated to include new texts for both Arabic and English:
+"Run SFC"
+"Run CHKDSK"
+"Clean Temporary Files"
+"All temporary files were cleaned successfully."
+User Interface Enhancements
+Buttons redesigned with improved colors and placed at the bottom of the window using DockStyle.Bottom for a cleaner layout.
+Added buttons for:
+Running SFC.
+Running CHKDSK.
 
 
 
-DOWNLOAD  :   [SCREAM_q8x V1.0.zip](https://github.com/user-attachments/files/17497061/SCREAM_q8x.V1.0.zip)
+
+![655665665](https://github.com/user-attachments/assets/14a4bdf0-f5b8-42eb-a6b7-e7a49dbc7952)
+
+
+
+
+DOWNLOAD 28/11/2024   :  [SCREAMq8x.zip](https://github.com/user-attachments/files/17942750/SCREAMq8x.zip)
+
 
 
 
